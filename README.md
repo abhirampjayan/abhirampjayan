@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😇 About Me:
 🧑🏻‍💻I am well-versed in developing full-stack applications using cutting-edge technologies. <br>😎My passion for learning and exploring new technology keeps me up-to-date with the latest industry trends and helps me deliver top-notch solutions to clients. <br>🎓I graduated from the College of Engineering Kottarakkara in Computer Science and Engineering in 2020. <br>💪🏻With a keen eye for detail and a knack for problem-solving, I am confident in my ability to provide innovative solutions to complex challenges.<br>🕵🏻I am open to collaborating on new projects.<br>👨🏻‍🎓I'm currently exploring Blockchain technologies and AI/ML technologies.<br>
 
 
